@@ -104,4 +104,3 @@ TODO: Documentar las siguientes tablas
 | RN-02 | Una carrera puede tener muchos alumnos |
 | RN-03 | Una carrera puede tener muchas materias |
 | RN-04 | Un profesor puede impartir varios grupos |
-![Ejercico5](../../img/ER/bd.drawio.png)
